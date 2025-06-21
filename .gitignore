@@ -1,0 +1,6 @@
+# Ignore node_modules and environment configs
+node_modules/
+.env
+credentials/
+build/
+.DS_Store
